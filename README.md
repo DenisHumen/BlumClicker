@@ -1,6 +1,13 @@
 # blum_clicker
-If you want a ban, you can use this script, run the script through main. Run in Windows run file main.py
-Installing dependencies via requirements.txt - pip install -r requirements.txt'
+
+The easiest way to do this is through vscode
+
+1. Click “Launch Blum”
+2. If git is installed, you can just stock repositories -- git clone https://github.com/MeSmallMan/blum_clicker.git
+3. To install dependencies you need to give the command in the directory with script files --  pip install -r requirements.txt
+4. Run the script python3 main.py
+
+farm $$$
 
 SOL GHVGDEkaQxcTbkq1We9j3HAfDBmWMEC4n4nRNhGXWjQr
 
